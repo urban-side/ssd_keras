@@ -1,0 +1,6 @@
+*.hdf5
+.DS_Store
+__pycache__/
+.git/
+./dataset/pics/
+./dataset/labels/
